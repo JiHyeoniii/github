@@ -4,8 +4,8 @@
   ---
   
   이름: 박지현   
-  전공: 스마트IoT전공
-  복수전공: 중국학과
+  전공: 스마트IoT전공   
+  복수전공: 중국학과   
   깃허브: [깃허브][github]
   
   [github] : https://github.com/JiHyeoniii/github
