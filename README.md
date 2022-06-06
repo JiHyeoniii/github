@@ -39,6 +39,10 @@
 
 # 👩‍💻사용가능한 언어
   
+  -JAVA   
+  -C
+  -JS
+  
 # 🏅수상 및 자격증
   
   -MOS excel , MOS word    
