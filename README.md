@@ -48,6 +48,9 @@
   -MOS excel , MOS word    
   -22년 1학기 캡스톤 동상수상
   
+  <image src = 22학년 1학기 캡스톤디자인 포스터.jpg height=200 width=200>  
+
+  
 # 🖇PLAN
   
   -SW    
