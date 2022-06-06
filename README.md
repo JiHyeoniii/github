@@ -41,7 +41,7 @@
   
 # 🏅수상 및 자격증
   
-  -MOS excel , MOS word 
+  -MOS excel , MOS word    
   -22년 1학기 캡스톤 동상수상
   
 # 🖇PLAN
