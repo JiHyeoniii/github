@@ -1,6 +1,6 @@
 # 😊인적사항   
 
-<image src = 나.jpg height=200 width=20>
+<image src = 나.jpg height=200 width=200>
   ---
   
   이름: 박지현   
