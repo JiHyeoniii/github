@@ -1,3 +1,3 @@
 # 😊인적사항   
 
-<image src = 나.jpg height=150 width=200>
+<image src = 나.jpg height=200 width=200>
