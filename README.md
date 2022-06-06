@@ -22,7 +22,7 @@
   |IoT플랫폼설계|HTML,CSS,JS|3|
   |소프트웨어캡스톤디자인|프로젝트경험|3|
   
-  관련 url: IoT플랫폼설계[codepen](https://codepen.io/your-work)
+  관련 url: IoT플랫폼설계 ([codepen])(https://codepen.io/your-work)
   
 # 📖수강과목-복수전공
   
