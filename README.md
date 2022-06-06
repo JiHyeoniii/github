@@ -48,13 +48,16 @@
   -MOS excel , MOS word    
   -22년 1학기 캡스톤 동상수상   
   
- <image src = 22학년 1학기 캡스톤디자인 포스터.jpg width=200,height=200>
   
 # 🖇PLAN
   
   -SW    
-  코딩테스트   
+  코딩테스트 연습     
+  캡스톤 프로젝트 외에 프로젝트 참여    
+  공모전 참여    
   
   -외국어능력    
-  HSK 5급    
+  HSK 5급 취득    
+  TOEIC/TOEFL     
+  
 
